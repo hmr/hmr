@@ -1,5 +1,5 @@
 ### I'm planning... 🤔
-Softwares to make live with COVID-19 fun!
+Softwares to make 'life with COVID-19' fun!
 
 <!--
 **hmr/hmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
