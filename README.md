@@ -1,5 +1,5 @@
-### Hi guys🖖
-I'm writing software through the present, past and future.
+### I'm planning... 🤔
+Softwares to make live with COVID-19 fun!
 
 <!--
 **hmr/hmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
