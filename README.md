@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi guys🖖
+I'm writing software through the present, past and future.
 
 <!--
 **hmr/hmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
