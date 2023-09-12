@@ -1,6 +1,3 @@
-### I'm planning... 🤔
-Softwares for fun "Life with COVID-19"!
-
 <!--
 **hmr/hmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
